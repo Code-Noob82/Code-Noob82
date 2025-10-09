@@ -112,8 +112,8 @@ Hier sind meine wichtigsten Abschlüsse und Nachweise aus der Ausbildung am Synt
 | Zertifikat | Institution | Jahr | Beschreibung |
 |-------------|--------------|------|---------------|
 | **Kurszertifikat App-Entwicklung** | Syntax Institut | 2025 | Abschluss der Maßnahme „IT-Fachkraft App-Entwicklung (iOS & Android)“ |
-| **IHK-Zertifikat: iOS App Developer** | IHK Region Stuttgart | 2025 | Swift, SwiftUI, Core Data, MVVM, Firebase, Architektur |
-| **IHK-Zertifikat: Android App Developer** | IHK Region Stuttgart | 2025 | Kotlin, Jetpack Compose, MVVM, Repository Pattern, Hilt, Supabase |
+| **IHK-Zertifikat: iOS App Developer** | IHK München & Oberbayern | 2025 | Swift, SwiftUI, Core Data, MVVM, Firebase, Architektur |
+| **IHK-Zertifikat: Android App Developer** | IHK München & Oberbayern | 2025 | Kotlin, Jetpack Compose, MVVM, Repository Pattern, Hilt, Supabase |
 
 > _„Code kann man lernen – Leidenschaft nicht. Die bringe ich mit.“_
 
