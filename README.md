@@ -62,6 +62,64 @@ Parallel arbeite ich an zwei Herzensprojekten:
 
 ---
 
+### 🎓 Ausbildung & Tech-Fundament (Syntax Institut, 2024 – 2025)
+
+[![Syntax Institut](https://img.shields.io/badge/Syntax%20Institut-%232196F3?style=for-the-badge&logo=code&logoColor=white)](https://www.syntax-institut.de/)
+[![IHK Zertifikat](https://img.shields.io/badge/IHK%20Zertifikat-%234CAF50?style=for-the-badge&logo=book&logoColor=white)](https://www.ihk.de/)
+
+> **IHK-zertifizierte IT-Fachkraft für App-Entwicklung (iOS & Android)**  
+> Abschluss: Oktober 2025 | 2.300 Unterrichtseinheiten
+
+Ich habe gelernt, Apps **von Grund auf strukturiert und nutzerzentriert** zu denken –  
+vom Konzept über Design bis zur produktiven Architektur.  
+Der Lehrgang am **Syntax Institut** hat mein Handwerk als Entwickler geprägt:  
+sauberer Code, klare Prozesse, nachhaltige Lösungen.
+
+#### 🧩 Maßnahme-Module
+
+| Modul | Inhalt | Dauer |
+|--------|---------|-------|
+| **Mobile UX/UI Design** | Analyse, Konzeption, Design, Prototyping | 2 Monate |
+| **Grundlagen Programmierung** | Objektorientierung, SwiftUI, GitHub, Xcode | 2 Monate |
+| **iOS App Development** | SwiftUI, Architektur, APIs, Datenspeicher | 4 Monate |
+| **Android App Development** | Jetpack Compose, Architektur, APIs, Datenspeicher | 4 Monate |
+
+#### 📚 Relevante Skills aus der Ausbildung
+
+- 🎨 **UX/UI-Design** – von Wireframe bis Prototyp, immer mit Nutzerfokus  
+- 🧠 **Objektorientierung & Architekturdenken** – saubere MVVM-Struktur, Repository Pattern  
+- 🍏 **iOS** – SwiftUI, State Management, Core Data, Networking  
+- 🤖 **Android** – Jetpack Compose, Hilt, Room, DataStore, Supabase  
+- ⚙️ **Crossplattform & Zukunft** – Kotlin Multiplatform (KMP) als Brücke zwischen Welten  
+- ☁️ **APIs & Cloud** – moderne REST-Integrationen & Auth-Flows  
+- 🧩 **Versionierung & Zusammenarbeit** – GitHub, Clean Commits, CI/CD-Basics  
+
+> _„Ich hab gelernt, Apps nicht einfach zu coden – sondern sie **zu verstehen**, bevor ich sie baue.“_
+
+---
+
+### 🧾 Zertifikate & Nachweise
+
+> **Lernen hört nie auf – man entwickelt sich mit jedem Projekt weiter.**
+
+Hier sind meine wichtigsten Abschlüsse und Nachweise aus der Ausbildung am Syntax Institut und den IHK-Zertifikatslehrgängen:
+
+[![Kurszertifikat Syntax Institut](https://img.shields.io/badge/Kurszertifikat%20(Syntax%20Institut)-%232196F3?style=for-the-badge&logo=code&logoColor=white)](https://www.syntax-institut.de/)
+[![IHK Zertifikat iOS App Developer](https://img.shields.io/badge/IHK%20Zertifikat%20iOS%20App%20Developer-%234CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://www.ihk.de/)
+[![IHK Zertifikat Android App Developer](https://img.shields.io/badge/IHK%20Zertifikat%20Android%20App%20Developer-%232196F3?style=for-the-badge&logo=android&logoColor=white)](https://www.ihk.de/)
+
+#### 📜 Übersicht
+
+| Zertifikat | Institution | Jahr | Beschreibung |
+|-------------|--------------|------|---------------|
+| **Kurszertifikat App-Entwicklung** | Syntax Institut | 2025 | Abschluss der Maßnahme „IT-Fachkraft App-Entwicklung (iOS & Android)“ |
+| **IHK-Zertifikat: iOS App Developer** | IHK Region Stuttgart | 2025 | Swift, SwiftUI, Core Data, MVVM, Firebase, Architektur |
+| **IHK-Zertifikat: Android App Developer** | IHK Region Stuttgart | 2025 | Kotlin, Jetpack Compose, MVVM, Repository Pattern, Hilt, Supabase |
+
+> _„Code kann man lernen – Leidenschaft nicht. Die bringe ich mit.“_
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
