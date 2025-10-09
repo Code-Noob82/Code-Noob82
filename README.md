@@ -6,7 +6,7 @@
 Vom **Bäckerhandwerk** über **Biotech & Vertrieb** bis zur **App-Entwicklung**.  
 Ich bin kein klassischer Quereinsteiger – ich bin ein Macher, der weiß, was echte Arbeit bedeutet.
 
-26 Jahre Erfahrung zwischen **Backstube, Labor und Verkaufsfläche** haben mir beigebracht,  
+26 Jahre Erfahrung zwischen **Backstube, Labor und Außendienst** haben mir beigebracht,  
 dass **Digitalisierung nicht auf dem Papier**, sondern **im Alltag wirken** muss.  
 Heute entwickle ich **Apps mit Struktur, Seele und Sinn** – für echte Menschen, nicht für PowerPoint-Folien.
 
@@ -75,13 +75,13 @@ Parallel arbeite ich an zwei Herzensprojekten:
 
 ### 💬 Über mich
 
-> „Code wird nie fertig – nur besser.“
+> „Digitalisierung mit Biss – byte & Handwerk.“
 
 Ich glaube an **ehrliche Arbeit, smarte Prozesse** und **Software mit Haltung**.  
 Meine Motivation ist kein Exit, sondern Wirkung: Ich will, dass **Digitalisierung den Alltag verbessert** –  
 nicht ihn ersetzt.
 
-👨‍👩‍👧‍👦 Vater von 4, Hundebesitzer, Mannheimer mit Odenwälder Wurzeln.  
+👨‍👩‍👧‍👦 Vater von 4 Kids, Hundebesitzer, Mannheimer mit Odenwälder Wurzeln.  
 Ich bin kein Theoretiker – ich bin **Macher mit Herz, Hirn und Biss**.
 
 ---
