@@ -119,14 +119,23 @@ Hier sind meine wichtigsten Abschlüsse und Nachweise aus der Ausbildung am Synt
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats & Languages
+
+> „Code wird nie fertig – nur besser.“  
 
 <div align="center">
 
-![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Noob82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Noob82&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=10)
+<!-- 🧠 Gesamtaktivität -->
+![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Noob82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&line_height=26&title_color=4CAF50&icon_color=2196F3)
+
+<!-- 💻 Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Noob82&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=10&title_color=2196F3)
 
 </div>
+
+> _„Echter Fortschritt entsteht, wenn Handwerk & Code dieselbe Sprache sprechen.“_
 
 ---
 
