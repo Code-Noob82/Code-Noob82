@@ -143,7 +143,7 @@ Hier sind meine wichtigsten Abschlüsse und Nachweise aus der Ausbildung am Synt
 
 > „Digitalisierung mit Biss – byte & Handwerk.“
 
-Ich glaube an **ehrliche Arbeit, smarte Prozesse** und **Software mit Haltung**.  
+Ich glaube an **ehrliche Arbeit, smarte Prozesse** und **Software mit Charakter**.  
 Meine Motivation ist kein Exit, sondern Wirkung: Ich will, dass **Digitalisierung den Alltag verbessert** –  
 nicht ihn ersetzt.
 
