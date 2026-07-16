@@ -1,163 +1,157 @@
-<!-- 🧠 vectormindstudio | byte & Handwerk | MomentenMacher -->
-![App-Entwickler mit Biss](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=250&section=header&text=App-Entwickler%20mit%20Biss%20💥&fontSize=42&fontAlignY=38&fontColor=ffffff)
+<!-- ===================================================== -->
+<!-- Header -->
+<!-- ===================================================== -->
 
-### 👋 Hi, ich bin Dominik – App-Entwickler mit Biss.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4CAF50,100:2196F3&text=Dominik%20Baki&fontColor=ffffff&fontSize=42&desc=Native%20iOS%20Developer%20%7C%20SwiftUI%20%7C%20Firebase&descAlignY=60"/>
+</p>
 
-Vom **Bäckerhandwerk** über **Biotech & Vertrieb** bis zur **App-Entwicklung**.  
-Ich bin kein klassischer Quereinsteiger – ich bin ein Macher, der weiß, was echte Arbeit bedeutet.
+# 👋 Hi, ich bin Dominik
 
-26 Jahre Erfahrung zwischen **Backstube, Labor und Außendienst** haben mir beigebracht,  
-dass **Digitalisierung nicht auf dem Papier**, sondern **im Alltag wirken** muss.  
-Heute entwickle ich **Apps mit Struktur, Seele und Sinn** – für echte Menschen, nicht für PowerPoint-Folien.
+Native **iOS App Developer** aus Mannheim 🇩🇪
 
----
+Ich entwickle Apps gemeinsam mit den Menschen, die sie später täglich nutzen.
 
-### 🚀 Meine Mission
-
-Ich verbinde **traditionelles Handwerk** mit **moderner Technologie**.  
-Mit meiner Marke **[byte & Handwerk](https://byteundhandwerk.de)** helfe ich Bäckereien, Metzgereien & Hofläden,  
-ihre Kundschaft digital zu erreichen – mit echten Lösungen, die wirken.  
-Keine Buzzwords. Kein leeres Marketing. Nur ehrliche Digitalisierung.
-
-Parallel arbeite ich an zwei Herzensprojekten:
-- 💚 **[MomentenMacher](https://momentenmacher.de)** – eine App gegen Einsamkeit im Alter.  
-- 🧩 **vectormindstudio** – meine langfristige Vision einer nachhaltigen Tech-Holding für Impact-Projekte.
+Mein Fokus liegt auf praxisnahen MVPs, sauberer Softwarearchitektur und kontinuierlicher Produktentwicklung auf Basis echten Nutzerfeedbacks.
 
 ---
 
-### 🧠 Tech Stack & Tools
+# 🚀 Current Focus
 
-#### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- 🍎 Native iOS Development
+- 📱 SwiftUI
+- 🔥 Firebase & Firestore
+- 🗺️ MapKit
+- 🏗️ MVVM + Clean Architecture
+- 🧪 TestFlight Pilotprojekte
+- 👥 User-driven Development
+
+---
+
+# 🛠 Tech Stack
+
+## Mobile
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-orange?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-#### ⚙️ Backend & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## Backend
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room%20DB-3E4EB8?style=for-the-badge&logo=android&logoColor=white)
-![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### 🧩 Architektur & Tools
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-FF6F00?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## Architecture
 
-#### 💻 Weitere Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-black?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository-orange?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge)
+
+## Tools
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
-### 🏗️ Aktuelle Projekte
+# 📱 Featured Projects
 
 | Projekt | Beschreibung | Status |
-|----------|---------------|--------|
-| 🦴 **TreueBiss (byte & Handwerk)** | Digitale Kundenbindungs-App fürs Lebensmittelhandwerk | 🚀 MVP Live |
-| 💚 **MomentenMacher** | App gegen Einsamkeit im Alter | 🧩 in Entwicklung |
-| 🧠 **vectormindstudio** | Strategische Tech-Holding für Impact & Innovation | ⚙️ in Planung |
+|----------|--------------|--------|
+| 🦌 **RevierHege** | Digitale Unterstützung für Jagdgemeinschaften | 🚀 TestFlight |
+| 🥖 **TreueBiss** | Digitale Kundenbindung für Bäckereien | 🧪 Showcase |
+| 💚 **MomentenMacher** | App gegen Einsamkeit im Alter | 💡 Konzept |
 
 ---
 
-### 🎓 Ausbildung & Tech-Fundament (Syntax Institut, 2024 – 2025)
+# 📸 Showcase
 
-[![Syntax Institut](https://img.shields.io/badge/Syntax%20Institut-%232196F3?style=for-the-badge&logo=code&logoColor=white)](https://www.syntax-institut.de/)
-[![IHK Zertifikat](https://img.shields.io/badge/IHK%20Zertifikat-%234CAF50?style=for-the-badge&logo=book&logoColor=white)](https://www.ihk.de/)
+> Screenshots folgen.
 
-> **IHK-zertifizierte IT-Fachkraft für App-Entwicklung (iOS & Android)**  
-> Abschluss: Oktober 2025 | 2.300 Unterrichtseinheiten
+### 🦌 RevierHege
 
-Ich habe gelernt, Apps **von Grund auf strukturiert und nutzerzentriert** zu denken –  
-vom Konzept über Design bis zur produktiven Architektur.  
-Der Lehrgang am **Syntax Institut** hat mein Handwerk als Entwickler geprägt:  
-sauberer Code, klare Prozesse, nachhaltige Lösungen.
+Native iOS App
 
-#### 🧩 Maßnahme-Module
-
-| Modul | Inhalt | Dauer |
-|--------|---------|-------|
-| **Mobile UX/UI Design** | Analyse, Konzeption, Design, Prototyping | 2 Monate |
-| **Grundlagen Programmierung** | Objektorientierung, SwiftUI, GitHub, Xcode | 2 Monate |
-| **iOS App Development** | SwiftUI, Architektur, APIs, Datenspeicher | 4 Monate |
-| **Android App Development** | Jetpack Compose, Architektur, APIs, Datenspeicher | 4 Monate |
-
-#### 📚 Relevante Skills aus der Ausbildung
-
-- 🎨 **UX/UI-Design** – von Wireframe bis Prototyp, immer mit Nutzerfokus  
-- 🧠 **Objektorientierung & Architekturdenken** – saubere MVVM-Struktur, Repository Pattern  
-- 🍏 **iOS** – SwiftUI, State Management, Core Data, Networking  
-- 🤖 **Android** – Jetpack Compose, Hilt, Room, DataStore, Supabase  
-- ⚙️ **Crossplattform & Zukunft** – Kotlin Multiplatform (KMP) als Brücke zwischen Welten  
-- ☁️ **APIs & Cloud** – moderne REST-Integrationen & Auth-Flows  
-- 🧩 **Versionierung & Zusammenarbeit** – GitHub, Clean Commits, CI/CD-Basics  
-
-> _„Ich hab gelernt, Apps nicht einfach zu coden – sondern sie **zu verstehen**, bevor ich sie baue.“_
+- SwiftUI
+- Firebase
+- Firestore
+- MapKit
+- MVVM
+- Repository Pattern
+- TestFlight
 
 ---
 
-### 🧾 Zertifikate & Nachweise
+### 🥖 TreueBiss
 
-> **Lernen hört nie auf – man entwickelt sich mit jedem Projekt weiter.**
-
-Hier sind meine wichtigsten Abschlüsse und Nachweise aus der Ausbildung am Syntax Institut und den IHK-Zertifikatslehrgängen:
-
-[![Kurszertifikat Syntax Institut](https://img.shields.io/badge/Kurszertifikat%20(Syntax%20Institut)-%232196F3?style=for-the-badge&logo=code&logoColor=white)](https://www.syntax-institut.de/)
-[![IHK Zertifikat iOS App Developer](https://img.shields.io/badge/IHK%20Zertifikat%20iOS%20App%20Developer-%234CAF50?style=for-the-badge&logo=apple&logoColor=white)](https://www.ihk.de/)
-[![IHK Zertifikat Android App Developer](https://img.shields.io/badge/IHK%20Zertifikat%20Android%20App%20Developer-%232196F3?style=for-the-badge&logo=android&logoColor=white)](https://www.ihk.de/)
-
-#### 📜 Übersicht
-
-| Zertifikat | Institution | Jahr | Beschreibung |
-|-------------|--------------|------|---------------|
-| **Kurszertifikat App-Entwicklung** | Syntax Institut | 2025 | Abschluss der Maßnahme „IT-Fachkraft App-Entwicklung (iOS & Android)“ |
-| **IHK-Zertifikat: iOS App Developer** | IHK München & Oberbayern | 2025 | Swift, SwiftUI, Core Data, MVVM, Firebase, Architektur |
-| **IHK-Zertifikat: Android App Developer** | IHK München & Oberbayern | 2025 | Kotlin, Jetpack Compose, MVVM, Repository Pattern, Hilt, Supabase |
-
-> _„Code kann man lernen – Leidenschaft nicht. Die bringe ich mit.“_
+Digitale Kundenbindung für das Lebensmittelhandwerk.
 
 ---
 
----
+# 📈 GitHub Activity
 
-### 📊 GitHub Stats & Languages
+<p align="center">
 
-> „Code wird nie fertig – nur besser.“  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Code-Noob82&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Noob82&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<!-- 🧠 Gesamtaktivität -->
-![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Noob82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&line_height=26&title_color=4CAF50&icon_color=2196F3)
+</p>
 
-<!-- 💻 Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Noob82&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=10&title_color=2196F3)
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Code-Noob82&theme=tokyonight&hide_border=true"/>
 
-> _„Echter Fortschritt entsteht, wenn Handwerk & Code dieselbe Sprache sprechen.“_
+</p>
 
----
+<p align="center">
 
-### 💬 Über mich
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Noob82&theme=tokyo-night"/>
 
-> „Digitalisierung mit Biss – byte & Handwerk.“
+</p>
 
-Ich glaube an **ehrliche Arbeit, smarte Prozesse** und **Software mit Charakter**.  
-Meine Motivation ist kein Exit, sondern Wirkung: Ich will, dass **Digitalisierung den Alltag verbessert** –  
-nicht ihn ersetzt.
+<p align="center">
 
-👨‍👩‍👧‍👦 Vater von 4 Kids, Hundebesitzer, Mannheimer mit Odenwälder Wurzeln.  
-Ich bin kein Theoretiker – ich bin **Macher mit Herz, Hirn und Biss**.
+<img src="https://raw.githubusercontent.com/Code-Noob82/Code-Noob82/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-### 📫 Kontakt & Links
+# 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominik%20Baki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominik-baki)
-[![Website](https://img.shields.io/badge/byteundhandwerk.de-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://byteundhandwerk.de)
-[![E-Mail](https://img.shields.io/badge/Kontakt-Mail-2196F3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@byteundhandwerk.de)
+- IT-Fachkraft App-Entwicklung (iOS & Android)
+- IHK Certified iOS App Developer
+- IHK Certified Android App Developer
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer)
+# 💬 About Me
+
+Vor meiner Laufbahn als Softwareentwickler war ich im Bäckerhandwerk, in der Biotechnologie und im technischen Vertrieb tätig.
+
+Heute entwickle ich Apps für reale Anwendungsfälle – gemeinsam mit den Menschen, die sie später täglich nutzen.
+
+Ich glaube, dass gute Software dort entsteht, wo Entwickler den Arbeitsalltag ihrer Nutzer verstehen.
+
+---
+
+# 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominik_Baki-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dominik-baki)
+
+[![Website](https://img.shields.io/badge/byteundhandwerk.de-4CAF50?style=for-the-badge)](https://byteundhandwerk.de)
+
+[![Mail](https://img.shields.io/badge/E-Mail-Kontakt-blue?style=for-the-badge&logo=gmail)](mailto:info@byteundhandwerk.de)
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2196F3,100:4CAF50"/>
+
+</p>
