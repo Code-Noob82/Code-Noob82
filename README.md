@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4CAF50,100:2196F3&text=Dominik%20Baki&fontColor=ffffff&fontSize=42&desc=Native%20iOS&Android%20Developer%20%7C%20SwiftUI%20%7C%20Firebase&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4CAF50,100:2196F3&text=Dominik%20Baki&fontColor=ffffff&fontSize=42&desc=Native%20iOS%20&%20Android%20Developer%20%7C%20SwiftUI%20%7C%20Firebase&descAlignY=60"/>
 </p>
 
 # 👋 Hi, ich bin Dominik
