@@ -15,7 +15,7 @@ Ich entwickle native Apps für iOS und Android, in sechs Paketen mit Festpreis, 
 | Projekt | Worum es geht | Stand |
 | --- | --- | --- |
 | **RevierHege** | Native App für kleine Jagdgemeinschaften, auf iOS und Android. Entwickelt mit einer realen Pilotgruppe, Kartenansicht, Rollenmodell und fortlaufenden Feedbackschleifen. | Beta: iOS über TestFlight, Android als geschlossener Test bei Google Play · [Fallstudie](https://byteundhandwerk.de/referenz-revierhege) |
-| **[TreueBiss](https://github.com/byte-und-handwerk/TreueBiss)** | White-Label-Lösung für digitale Kundenbindung im Lebensmittelhandwerk mit einfacher Stempel- und Gutscheinlogik. | Wird überarbeitet · [Stand](https://byteundhandwerk.de/treuebiss) |
+| **TreueBiss** | White-Label-Lösung für digitale Kundenbindung im Lebensmittelhandwerk mit einfacher Stempel- und Gutscheinlogik. | Wird überarbeitet · [Stand](https://byteundhandwerk.de/treuebiss) |
 | **[EmigrateIn](https://github.com/Code-Noob82/EmigrateIn)** | iOS-MVP zur strukturierten Unterstützung von Familien bei der Vorbereitung einer Auswanderung. | Abschlussprojekt, ruht derzeit · [Fallstudie](https://byteundhandwerk.de/referenz-emigratein) |
 
 ## Technik
